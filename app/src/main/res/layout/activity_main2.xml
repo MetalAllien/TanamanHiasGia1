@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.tanamanlagi.activiities.MainActivity2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About Us"
+        android:textColor="@android:color/black"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:id="@+id/tvhello"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Selamat datang di aplikasi Rekomendasi Tanaman Hias! Kami adalah platform yang didedikasikan untuk membantu para pengguna menemukan dan memilih tanaman hias yang sesuai dengan kebutuhan dan preferensi mereka. Berikut adalah informasi tentang aplikasi kami:"
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Tujuan Aplikasi:"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="105dp"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aplikasi Rekomendasi Tanaman Hias bertujuan untuk menyediakan rekomendasi tanaman hias yang tepat berdasarkan berbagai faktor, termasuk lokasi geografis, tingkat cahaya, perawatan yang diperlukan, ukuran tanaman, dan preferensi estetika pengguna. Tujuan utama kami adalah membantu pengguna menciptakan ruang hijau yang indah dan menyegarkan di lingkungan mereka."
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="120dp"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2. Fitur Utama"
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="210dp"
+        android:textStyle="bold"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="a. Kuis Preferensi: Pengguna akan diminta untuk mengisi kuis singkat yang mencakup pertanyaan tentang preferensi mereka terkait tanaman hias, seperti ukuran yang diinginkan, warna bunga atau dedaunan favorit, dan tingkat kesulitan perawatan yang diinginkan. \nb. Lokasi Geografis: Aplikasi kami akan meminta izin untuk mengakses lokasi geografis pengguna untuk memberikan rekomendasi yang cocok dengan iklim dan kondisi tanah setempat.\nc. Katalog Tanaman: Aplikasi akan menyajikan katalog lengkap berisi informasi tentang berbagai tanaman hias yang ada, termasuk nama, gambar, dan deskripsi lengkap.
+"
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="230dp"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. Informasi Detail Tanaman"
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="380dp"
+        android:textStyle="bold"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aplikasi kami akan memberikan informasi rinci tentang setiap tanaman yang direkomendasikan, termasuk:\na. Nama ilmiah dan nama umum tanaman.\nb. Gambar untuk memperlihatkan bagaimana tanaman tersebut tampak.\nc. Deskripsi singkat tentang karakteristik tanaman.\nd. Persyaratan perawatan, seperti kebutuhan cahaya, air, dan nutrisi.\ne. Tips untuk memecahkan masalah umum dalam perawatan tanaman hias."
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="395dp"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="4. Konten Edukasi"
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="505dp"
+        android:textStyle="bold"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Selain memberikan rekomendasi, aplikasi kami juga akan menyediakan artikel dan panduan tentang perawatan tanaman hias, tips bercocok tanam, serta berbagai ide kreatif untuk menyusun tanaman di dalam ruangan atau di taman."
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="520dp"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5. Keamanan Data"
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="580dp"
+        android:textStyle="bold"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kami mengutamakan keamanan data pengguna. Informasi pribadi yang dikumpulkan oleh aplikasi akan dijaga kerahasiaannya dan digunakan secara eksklusif untuk tujuan memberikan rekomendasi yang lebih baik."
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="595dp"
+        android:layout_alignParentStart="true"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kami berharap aplikasi Rekomendasi Tanaman Hias kami dapat membantu Anda menemukan tanaman yang sesuai dengan selera dan kebutuhan Anda, serta memperkaya lingkungan sekitar Anda dengan keindahan tanaman hias. Jika Anda memiliki pertanyaan lebih lanjut atau masukan, jangan ragu untuk menghubungi kami. Selamat berkebun!"
+        android:textColor="@android:color/black"
+        android:textSize="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="650dp"
+        android:layout_alignParentStart="true"
+        />
+</RelativeLayout>
